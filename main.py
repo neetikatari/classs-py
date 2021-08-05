@@ -1,3 +1,7 @@
 import pandas as pd
 
-#DATA FRAME
+#DATA FRAME,mmn,m/d.sbm/.dz
+
+
+
+#mn.,m
